@@ -1,4 +1,4 @@
-#  AKAN NAMES
+#   Delani Studio
 
 This is a fictional studio Landing page which was recreated using Bootstrap and Jquery
 
