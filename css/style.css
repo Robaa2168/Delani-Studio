@@ -165,3 +165,28 @@
   border: 1px solid black;
   opacity: 0.6;
 }
+
+.contact {
+  color: white;
+  text-align: center;
+  color: white;
+  background-color: black;
+  backface-visibility: hidden;
+  background-color: transparent;
+}
+
+.text-area {
+  text-align: center;
+  margin-left: 10px;
+}
+
+.form-control::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1;
+}
+
+form {
+  display: inline-block;
+  width: 710px;
+}
