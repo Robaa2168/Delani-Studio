@@ -21,7 +21,7 @@
   justify-content: center;
   position: relative;
   text-align: center;
-  padding-top: 21%;
+  padding-top: 12%;
   color: rgb(255, 255, 255);
   font-family: 'Roboto Slab', serif;
 }
@@ -189,4 +189,11 @@
 form {
   display: inline-block;
   width: 710px;
+}
+
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  width: 100%;
 }
