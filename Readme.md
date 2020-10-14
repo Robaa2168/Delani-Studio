@@ -17,10 +17,10 @@ Uploaded to github
 
 ## Built With
 
-** HTML**
-** CSS **
-** Javascript **
-** Jquery **
+**HTML**
+**CSS**
+**Javascript**
+**Jquery**
 
 
 ## Contributing
