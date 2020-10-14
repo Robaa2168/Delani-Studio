@@ -5,7 +5,7 @@ This is a fictional studio Landing page which was recreated using Bootstrap and 
 ## Live DEMO
 You can find the working example here: [ https://robaa2168.github.io/Delani-Studio/ ]
 
-#### Installation
+## Installation
 All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
 and there you go
 ## Usage
@@ -17,10 +17,10 @@ Uploaded to github
 
 ## Built With
 
-**HTML**
-**CSS**
-**Javascript**
-**Jquery**
+** HTML **
+** CSS **
+** Javascript **
+** Jquery **
 
 
 ## Contributing
