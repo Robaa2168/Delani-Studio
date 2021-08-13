@@ -12,8 +12,8 @@
 > Clone or fork the repository and start modifying the HTML & CSS files.
 
 
-## Deployment
-Uploaded to github
+> ## Deployment
+> Uploaded to github
 
 ## Built With
 
