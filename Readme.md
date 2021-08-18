@@ -15,12 +15,12 @@
 > ## Deployment
 > Uploaded to github
 
-## Built With
+> ## Built With
 
-** HTML **
-** CSS **
-** Javascript **
-** Jquery **
+> ** HTML **
+> ** CSS **
+> ** Javascript **
+> ** Jquery **
 
 
 ## Contributing
